@@ -4,6 +4,11 @@
 
 > 四个仓，四件事，同一个做法：**每个数字都要能指回一个来源；每条检查都要写清它没查什么。**
 
+**不用下载也能看**（GitHub Pages，纯静态，打开即跑）：
+[V12 交互拆解模型](https://liyancy86.github.io/v12-engine/) ·
+[14 套字幕界面总览](https://liyancy86.github.io/ar-subtitle-ui/) ·
+[本页在线版](https://liyancy86.github.io/portfolio/)
+
 ---
 
 ## 0. 三分钟版
