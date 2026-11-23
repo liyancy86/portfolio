@@ -1,0 +1,32 @@
+MIT License
+
+Copyright (c) 2026 李学宇 (Yancy)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+本仓的 License 只覆盖本仓的 README 文字与 tools/ 下的脚本。
+
+shots/ 里的图片是从四个子仓复制来的缩略图，其版权与许可跟随各自的源仓：
+  v12-engine        MIT
+  arm-mujoco-sim    MIT
+  hw-designs        MIT（第三方零件与数据手册见该仓 LICENSE）
+  ar-subtitle-ui    MIT（内嵌字体 Fusion Pixel 为 SIL OFL 1.1）
+逐条清单见各子仓的 LICENSE 与 THIRD-PARTY.md。
