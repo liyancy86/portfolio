@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 李学宇 (Yancy)
+Copyright (c) 2026 Xueyu Li (Yancy)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,14 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-本仓的 License 只覆盖本仓的 README 文字与 tools/ 下的脚本。
-
-shots/ 里的图片是从四个子仓复制来的缩略图，其版权与许可跟随各自的源仓：
-  v12-engine        MIT
-  arm-mujoco-sim    MIT
-  hw-designs        MIT（第三方零件与数据手册见该仓 LICENSE）
-  ar-subtitle-ui    MIT（内嵌字体 Fusion Pixel 为 SIL OFL 1.1）
-逐条清单见各子仓的 LICENSE 与 THIRD-PARTY.md。
